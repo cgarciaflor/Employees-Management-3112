@@ -20,5 +20,5 @@ Please add the  EMPLOYEE_LOGIN.TXT file path to the following:
   go to method Form1_Load and input the file path to string path: ""
 
 Please add the  EMPLOYER_LOGIN.TXT file path to the following: 
-  Under employer_Login
+  Under employer_Login 
   go to method employer_Login_Load and input the file path to string path: ""
