@@ -24,7 +24,7 @@ The only text box you can change is the salary one and clicking update will upda
 
 All Windows have a X button at the top right which will exit the app. 
 
-#IMPORTANT*****
+******IMPORTANT*****
 
 Please Add the Employee_Info.txt file path to the following: 
   Under addEmployees.cs, 
