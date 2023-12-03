@@ -1,0 +1,7 @@
+801356 Aaron Lee aLee@gmail.com 8978976654 200000 true false false
+800176 Ava Carter aCarter@gmail.com 7654328890 200000 true false false
+800234 Gary Lee garyL@gmail.com 4326789901 200000 true false false
+801249 Harsh Relk harshr@gmail.com 1234567890 200000 true false false
+801678 Mason Lowes mLowe@gmail.com 4566543210 200000 true false false
+801789 Holly Cobble hollycob@gmail.com 7046987654 200000 true false false
+801801 Carter Young cartYoung@gmail.com 6098907654 1234567 false true false
