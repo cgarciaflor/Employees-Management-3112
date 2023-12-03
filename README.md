@@ -1,8 +1,9 @@
 # Employees Management-3112
 By: Cristian Garcia Flores 
 
-This is a Windows Form App made in Visual Studio 2022 for ITCS-3112-051-Dsgn & Imp Object-oriented Sys Fall 2023
-When you first start the app, you will see a login screen which will accept username and password from the EMPLOYEE_LOGIN.TXT (user: user, password: password) file 
+This is a Windows Form App made in Visual Studio 2022 for ITCS-3112-051-Dsgn & Imp Object-oriented Sys Fall 2023. 
+
+When you first start the app, you will see a login screen which will accept username and password from the EMPLOYEE_LOGIN.TXT (user: user, password: password) file. 
   When logged in you will be logged in as Aaron Lee (just to keep the system simple).
   While logged in see a few options, clock in, clock out, and available today, clicking each will update Aaron Lee's info which can be see in the supervisor window. 
   To see the updates simply log out and sign in as a supervisor using the button at the bottom left to switch to the supervisor login portal or just open the Employee_Info.txt file. 
