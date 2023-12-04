@@ -26,25 +26,28 @@ The only text box you can change is the salary one and clicking update will upda
 All Windows have a X button at the top right which will exit the app. 
 
 # IMPORTANT
+Please remember to build the solution, if dont know how to the at the top of your screen there will be several drop downs to select from, select the one called "build". You will then see many options, please select build solution, if the errors dont go away simply close and open the project. 
+**also**
+SupervisorForm.cs will show an error, if you did not build the project and input the required path files below
 
 Please Add the Employee_Info.txt file path to the following: 
   ### Under addEmployees.cs, 
   go to method "add_click" and input the file path to string path: "".
 
-  Under the class EmployeeData.cs, 
+  ### Under the class EmployeeData.cs, 
   go to the method "employeesInfo" and input the file path to string path: "".
 
-  Under employeeForm.cs, 
+  ### Under employeeForm.cs, 
   go to methods clck_out_btn. clck_in_btn, ava_yes_btn, and ava_no_btn and input the file path to string path: "".
 
-  Under Salary.cs, 
+  ### Under Salary.cs, 
   go to method update_btn and input the file path to string path: "".
 
 
 Please add the  EMPLOYEE_LOGIN.TXT file path to the following: 
-  under Form1.cs, 
+  ### Under Form1.cs, 
   go to method Form1_Load and input the file path to string path: "".
 
 Please add the  EMPLOYER_LOGIN.TXT file path to the following: 
-  Under employer_Login, 
+  ### Under employer_Login.cs, 
   go to method employer_Login_Load and input the file path to string path: "".
